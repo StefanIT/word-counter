@@ -1,0 +1,26 @@
+
+
+<h1 mat-dialog-title class="ml-4">Insert Text</h1>
+
+<div mat-dialog-content>
+    <form [formGroup]="form">
+        <div class="row justify-content-start align-items-center">
+            <div class="col s1">
+                <mat-form-field class="container-fluid">
+                    <input type="text" matInput formControlName="content"/>
+                </mat-form-field>
+            </div>
+            <div class="col s3">
+                <button mat-flat-button color="primary" (click)="insertText()">Add text</button>
+            </div>
+        </div>
+    </form>
+    <ng-container *ngIf="showLoader">
+        <mat-progress-bar class="my-3" mode="query"></mat-progress-bar>
+    </ng-container>
+    <app-text-details *ngIf="insertedText" [data]="insertedText"></app-text-details>
+</div>
+
+<div mat-dialog-actions class="ml-4">
+  <button mat-button cdkFocusInitial (click)="close()">Close</button>
+</div>

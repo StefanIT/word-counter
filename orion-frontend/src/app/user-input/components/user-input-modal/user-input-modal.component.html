@@ -1,0 +1,17 @@
+<div mat-dialog-title class="mb-3">
+    <h3 >User Input</h3>
+    <ng-container *ngIf="showLoader">
+        <mat-progress-bar class="my-3" mode="query"></mat-progress-bar>
+    </ng-container>
+    <ng-container *ngIf="wordsCount != null && !showLoader">
+        <p class="words-count"><b>Words count:</b> {{wordsCount}}</p>
+    </ng-container>
+</div>
+<div mat-dialog-content>
+    <ckeditor [(ngModel)]="editorText" [editor]="Editor"></ckeditor>
+</div>
+
+<div mat-dialog-actions>
+    <button mat-flat-button color="primary" (click)="calculateWords()">Calculate words</button>
+    <button mat-button cdkFocusInitial (click)="close()">Close</button>
+</div>

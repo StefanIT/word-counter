@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XI7GFHsdr3Kt2eUx8qtbG5AwbbxRY4Xuy0+ceQAbT9VBrmYFRPCTMiHlQQ1Q3cEAbqdmsRn5c4lt38YlF93HnA==",
+  "success": true,
+  "projectFilePath": "C:\\Stefan\\onion\\orion-backend\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

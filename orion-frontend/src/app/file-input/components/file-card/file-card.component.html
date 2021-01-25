@@ -1,0 +1,17 @@
+<mat-card>
+    <mat-card-header>
+      <mat-card-title>File input</mat-card-title>
+      <mat-card-subtitle>Insert and check number of words in text file</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+        <ng-container *ngIf="showLoader">
+            <mat-progress-bar mode="query"></mat-progress-bar>
+        </ng-container>
+    </mat-card-content>
+    <mat-card-actions>
+        <input type="file" accept=".doc,.docx,.txt" class="d-none" #fileUpload (change)="handleFileInput($event.target.files)"/>
+        <button mat-flat-button (click)="fileUpload.click()">
+            <mat-icon>text_snippet</mat-icon> Insert file
+        </button >
+    </mat-card-actions>
+</mat-card>

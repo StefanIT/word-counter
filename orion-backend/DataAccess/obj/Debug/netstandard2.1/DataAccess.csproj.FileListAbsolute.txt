@@ -1,0 +1,12 @@
+C:\Stefan\onion\onion-backend\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Stefan\onion\onion-backend\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Stefan\onion\onion-backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Stefan\onion\onion-backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Stefan\onion\onion-backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Stefan\onion\onion-backend\DataAccess\bin\Debug\netstandard2.1\Domain.dll
+C:\Stefan\onion\onion-backend\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Stefan\onion\onion-backend\DataAccess\bin\Debug\netstandard2.1\Domain.pdb
+C:\Stefan\onion\onion-backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Stefan\onion\onion-backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
+C:\Stefan\onion\onion-backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\Stefan\onion\onion-backend\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb

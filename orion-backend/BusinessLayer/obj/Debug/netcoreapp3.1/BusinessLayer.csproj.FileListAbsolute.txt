@@ -1,0 +1,12 @@
+C:\Stefan\onion\onion-backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Stefan\onion\onion-backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Stefan\onion\onion-backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Stefan\onion\onion-backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Stefan\onion\onion-backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Stefan\onion\onion-backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Stefan\onion\onion-backend\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Stefan\onion\onion-backend\BusinessLayer\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Stefan\onion\onion-backend\BusinessLayer\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Stefan\onion\onion-backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Stefan\onion\onion-backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Stefan\onion\onion-backend\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

@@ -1,0 +1,61 @@
+Obrazac  1
+
+REGISTRACIONI   LIST  ZA  MOTORNO–PRIKLJUČNO   VOZILO
+
+PODACI O VOZILU 
+
+Vrsta  vozila				        ( J ) :        PUTNIČKO VOZILO
+	
+Marka 				    	    ( D. 1 ) :        Audi
+
+Tip/Varijanta/Verzija		      	    ( D. 2 ) : 	 /
+
+Komercijalna  oznaka (model)	                 ( D. 3 ) :        80
+
+Broj  šasije				        ( E ) :         WAUZZZ8AZLA241084
+
+Najveća dozvoljena masa 	                 ( F. 1 ) :	1490
+
+Masa					       ( G ) :	1090
+
+Važenje registracije		                     ( H ) :	24.12.2020
+
+Homologacijska oznaka 		        ( K ) :	
+
+Radna zapremina motora 	                 ( P. 1 ) :	1781
+
+Snaga motora  u KW	 	                 ( P. 2 ) :	64
+
+Vrsta pogona ili goriva 	 	    ( P. 3 ) :         BEZOLOVNI BENZIN 
+
+Odnos snaga/masa  u kg/kw 	                    ( Q ) :	/
+
+Broj mesta za sedenje	 	                ( S. 1 ) :	5
+
+Broj mesta za stajanje	 	    	   ( S. 2 ) :	/
+
+Broj motora 		 	 	   ( P. 5 ) :	NE168099
+
+Broj osovina			                    ( L ) :	2
+ 
+Boja vozila 				       ( R ) :          7D SIVA TAMNA METALIZIRANA  
+
+Godina proizvodnje  		               	  :	1990
+
+Nosivost   		   		               :	/
+
+PODACI  O TEHNIČKOM  PREGLEDU  VOZILA 
+
+Naziv i sedište ovlašćenog pravnog lica : 
+
+				        Šifra : 
+						
+				     ID broj :
+
+VOZILO  JE  TEHNIČKI  ISPRAVNO 
+
+Datum vršenja tehničkog pregleda :
+
+			    Kontrolor :
+
+Napomena:“ZA ODJAVU“

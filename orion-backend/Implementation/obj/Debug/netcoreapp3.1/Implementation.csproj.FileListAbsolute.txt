@@ -1,0 +1,16 @@
+C:\Stefan\onion\onion-backend\Implementation\obj\Debug\netcoreapp3.1\Implementation.csprojAssemblyReference.cache
+C:\Stefan\onion\onion-backend\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfoInputs.cache
+C:\Stefan\onion\onion-backend\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfo.cs
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\Implementation.deps.json
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\Implementation.dll
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\Implementation.pdb
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Stefan\onion\onion-backend\Implementation\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Stefan\onion\onion-backend\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CopyComplete
+C:\Stefan\onion\onion-backend\Implementation\obj\Debug\netcoreapp3.1\Implementation.dll
+C:\Stefan\onion\onion-backend\Implementation\obj\Debug\netcoreapp3.1\Implementation.pdb
+C:\Stefan\onion\onion-backend\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CoreCompileInputs.cache
